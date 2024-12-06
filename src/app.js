@@ -7,7 +7,7 @@ import Contact from './components/Contact.js';
 import Footer from './components/Footer.js';
 
 // Sélectionner l'élément racine où le contenu sera injecté
-const root = document.getElementById('root');
+const root = document.getElementById('app');
 
 // Fonction pour afficher une page
 function renderPage(content) {
