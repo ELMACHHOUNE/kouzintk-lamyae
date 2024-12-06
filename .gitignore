@@ -3,7 +3,7 @@ node_modules/
 
 # Parcel cache files
 .cache/
-dist/
+
 
 # Logs
 npm-debug.log*

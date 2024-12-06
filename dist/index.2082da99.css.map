@@ -1,0 +1,1 @@
+{"mappings":"AACA;;;;AAGE","sources":["public/main.css"],"sourcesContent":["/* Custom styles */\r\nbody {\r\n    font-family: 'Arial', sans-serif;\r\n  }\r\n  .container {\r\n    max-width: 1200px;\r\n    margin: auto;\r\n  }\r\n  "],"names":[],"version":3,"file":"index.2082da99.css.map","sourceRoot":"/__parcel_source_root/"}
